@@ -1,0 +1,7 @@
+C:\Users\86187\source\repos\Toeplitz\Toeplitz\bin\Debug\Toeplitz.exe.config
+C:\Users\86187\source\repos\Toeplitz\Toeplitz\bin\Debug\Toeplitz.exe
+C:\Users\86187\source\repos\Toeplitz\Toeplitz\bin\Debug\Toeplitz.pdb
+C:\Users\86187\source\repos\Toeplitz\Toeplitz\obj\Debug\Toeplitz.csprojAssemblyReference.cache
+C:\Users\86187\source\repos\Toeplitz\Toeplitz\obj\Debug\Toeplitz.csproj.CoreCompileInputs.cache
+C:\Users\86187\source\repos\Toeplitz\Toeplitz\obj\Debug\Toeplitz.exe
+C:\Users\86187\source\repos\Toeplitz\Toeplitz\obj\Debug\Toeplitz.pdb

@@ -1,0 +1,7 @@
+C:\Users\86187\source\repos\elemsInPrimenuber\elemsInPrimenuber\bin\Debug\elemsInPrimenuber.exe.config
+C:\Users\86187\source\repos\elemsInPrimenuber\elemsInPrimenuber\bin\Debug\elemsInPrimenuber.exe
+C:\Users\86187\source\repos\elemsInPrimenuber\elemsInPrimenuber\bin\Debug\elemsInPrimenuber.pdb
+C:\Users\86187\source\repos\elemsInPrimenuber\elemsInPrimenuber\obj\Debug\elemsInPrimenuber.csprojAssemblyReference.cache
+C:\Users\86187\source\repos\elemsInPrimenuber\elemsInPrimenuber\obj\Debug\elemsInPrimenuber.csproj.CoreCompileInputs.cache
+C:\Users\86187\source\repos\elemsInPrimenuber\elemsInPrimenuber\obj\Debug\elemsInPrimenuber.exe
+C:\Users\86187\source\repos\elemsInPrimenuber\elemsInPrimenuber\obj\Debug\elemsInPrimenuber.pdb

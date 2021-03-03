@@ -1,0 +1,14 @@
+C:\Users\86187\source\repos\arrayAverage\arrayAverage\bin\Debug\arrayAverage.exe.config
+C:\Users\86187\source\repos\arrayAverage\arrayAverage\bin\Debug\arrayAverage.exe
+C:\Users\86187\source\repos\arrayAverage\arrayAverage\bin\Debug\arrayAverage.pdb
+C:\Users\86187\source\repos\arrayAverage\arrayAverage\obj\Debug\arrayAverage.csprojAssemblyReference.cache
+C:\Users\86187\source\repos\arrayAverage\arrayAverage\obj\Debug\arrayAverage.csproj.CoreCompileInputs.cache
+C:\Users\86187\source\repos\arrayAverage\arrayAverage\obj\Debug\arrayAverage.exe
+C:\Users\86187\source\repos\arrayAverage\arrayAverage\obj\Debug\arrayAverage.pdb
+C:\Users\86187\Desktop\homework2\arrayAverage\arrayAverage\bin\Debug\arrayAverage.exe.config
+C:\Users\86187\Desktop\homework2\arrayAverage\arrayAverage\bin\Debug\arrayAverage.exe
+C:\Users\86187\Desktop\homework2\arrayAverage\arrayAverage\bin\Debug\arrayAverage.pdb
+C:\Users\86187\Desktop\homework2\arrayAverage\arrayAverage\obj\Debug\arrayAverage.csprojAssemblyReference.cache
+C:\Users\86187\Desktop\homework2\arrayAverage\arrayAverage\obj\Debug\arrayAverage.csproj.CoreCompileInputs.cache
+C:\Users\86187\Desktop\homework2\arrayAverage\arrayAverage\obj\Debug\arrayAverage.exe
+C:\Users\86187\Desktop\homework2\arrayAverage\arrayAverage\obj\Debug\arrayAverage.pdb
