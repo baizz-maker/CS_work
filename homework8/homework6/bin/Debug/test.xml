@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <detail_list>
+      <ProductDetail>
+        <ProductPrice>10</ProductPrice>
+        <ProductDescription>toy</ProductDescription>
+      </ProductDetail>
+      <ProductDetail>
+        <ProductPrice>30</ProductPrice>
+        <ProductDescription>e-card</ProductDescription>
+      </ProductDetail>
+    </detail_list>
+    <OrderID>
+      <Capacity>16</Capacity>
+      <Length>12</Length>
+    </OrderID>
+    <TotalAmount>40</TotalAmount>
+  </Order>
+  <Order>
+    <detail_list>
+      <ProductDetail>
+        <ProductPrice>20</ProductPrice>
+        <ProductDescription>cooker</ProductDescription>
+      </ProductDetail>
+    </detail_list>
+    <OrderID>
+      <Capacity>16</Capacity>
+      <Length>6</Length>
+    </OrderID>
+    <TotalAmount>20</TotalAmount>
+  </Order>
+</ArrayOfOrder>
