@@ -1,0 +1,535 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta
+	content="兴业银行,直销银行,兴业宝,理财产品,理财,黄金,年报，重要公告，精彩e生活，兴业动态，兴业e卡，网上个人银行，网上企业银行，信用卡，手机银行，房产评估，零售业务，自助银行，个人金融信息，自然人生家庭理财卡，银银平台，财智星，单证通，国际结算，国际贸易融资，票据业务，第三方存管，电子银行，集团结算中心，手机钱包，证书使用指南，网盾，精灵卫士，财经资讯，股票，外汇，债券，保险，贵金属投资，股指期货，网上商城，机票，酒店，保险，充值"
+	name="keywords" />
+<meta
+	content="兴业银行成立于1988年8月，是经国务院、中国人民银行批准成立的首批股份制商业银行之一，总行设在福建省福州市，2007年2月5日正式在上海证券交易所挂牌上市（股票代码：601166），注册资本50亿元"
+	name="description" />
+<link href='/cn/resources/css/2015/base.css' type="text/css" rel="stylesheet">
+<style>#nav ul.sub-menu {height: 309px;}</style>
+<!--[if IE]>
+	<link href="/cn/resources/css/2015/ie.css" type="text/css" rel="stylesheet">
+	<style>
+        a {
+            blr: expression(this.onFocus=this.blur());
+        }
+    </style>
+<![endif]-->
+
+<script	src="/cn/resources/js/2015/jquery.min.js"	type="text/javascript"></script>
+<script	src="/cn/resources/js/2015/jquery.slides.js"	type="text/javascript"></script>
+<script src="/cn/resources/js/2015/util.js"	type="text/javascript"></script><title>兴业银行欢迎您</title>
+<style>
+a.loginbox-button{margin:5px auto}
+.loginbox-top{margin-bottom:10px}
+.loginbox {height: 318px;}
+#nav ul.sub-menu {height: 309px;}
+</style>
+
+<script type="text/javascript" src="/cn/customer/CibBaidu.js"></script><script src="/cn/resources/js/2015/senBuriedPoint.js"	type="text/javascript"></script>
+<script>
+	indexSa.quick('autoTrack');
+  	var img = new Image();
+	img.src='//images.cib.com.cn/cib.gif';
+</script>
+<script src="/cn/resources/js/2015/senIndex.js"	type="text/javascript"></script>
+</head>
+<body>
+
+<div id="header">
+        <!-- 顶部导航菜单由js脚本填入 -->
+</div>
+<script src="/cn/CibHeader.js" type="text/javascript" deffer=true></script><div id="wrapper">
+		<div id="hot">
+	<ul class="hot-menu clearfix">
+<li><label>热点导航：</label></li><li><a href="/cn/home/hot/charge.html" >资费标准</a></li><li><a href="/cn/home/hot/zx.html" target="_blank" >直销银行</a></li><li><a href="/cn/home/hot/card.html" target="_blank" >信用卡</a></li><li><a href="/cn/home/hot/huoli.html" >活力人生</a></li><li><a href="/cn/home/hot/baifu.html" >百富人生</a></li><li><a href="/cn/home/hot/life.html" target="_blank" >安愉人生</a></li><li><a href="/cn/home/hot/yypt.html" target="_blank" >机构平台</a></li><li><a href="/cn/home/hot/xyt.html" >兴业通</a></li><li><a href="/cn/home/hot/social.html" >企业社会责任</a></li><li><a href="/cn/home/hot/investor.html" >投资者关系</a></li><li><a href="/cn/home/hot/news.html" >兴业动态</a></li><li style=""><a class="" href="/cn/home/hot/10th.html" target="_blank" >品牌蓝筹</a></li></ul></div><div id="content">
+			<div class="content-left">
+				<div id="slides">
+    <a href="javascript:void(0);" target=_parent>
+			<img src="/cn/customer/home/20210421_LLFgw.jpg"/></a>
+  		<a href="https://mobile.cib.com.cn/app/pages/20210330/index.html" target=_blank>
+			<img src="/cn/customer/home/GWLB.jpg"/></a>
+  		<a href="/cn/minipage/edu/tousu/tousu.html" >
+			<img src="/cn/customer/home/20210316_qybh.jpg"/></a>
+  		<a href="/cn/home/other/save.html" >
+			<img src="/cn/customer/home/slider-20210312.jpg"/></a>
+  		<a href="http://mobile.cib.com.cn/app/pages/20210308/index.html" target=_blank>
+			<img src="/cn/customer/home/20210309_1.jpg"/></a>
+  		<a href="http://www.cib.com.cn/t/q1.html" target=_blank>
+			<img src="/cn/customer/home/20200917.jpg"/></a>
+  		<a href="/cn/minipage/20200814/index.html" target=_blank>
+			<img src="/cn/customer/home/20200814.jpg"/></a>
+  		<a href="javascript:void(0);" target=_parent>
+			<img src="/cn/customer/home/20200703banner_1.jpg"/></a>
+  		</div><div id="infozone" class="notice">
+    <div class="advertise">
+        <p>重要公告 :</p>
+		<ul >
+  <li >
+				<a href="/cn/aboutCIB/about/notice/2021/20210506_1.html" target=_blank>关于部分理财产品变更管理人的公告</a>     
+	          	<label class="new"></label></li>
+          <li >
+				<a href="/cn/aboutCIB/about/notice/2021/20210506.html" target=_blank>兴业银行关于“中国进出口银行、嘉兴银行”  暂停运行部分支付清算系统的公告</a>     
+	          	<label class="new"></label></li>
+          <li >
+				<a href="/cn/aboutCIB/about/notice/2021/20210425_5.html" target=_blank>兴业银行关于2021年劳动节假期期间银行间债券市场柜台业务营业时间安排的公告</a>     
+	          	</li>
+          <li >
+				<a href="/cn/aboutCIB/about/notice/2021/20210425_3.html" target=_blank>兴业银行关于2021年劳动节假期期间个人外汇买卖业务营业时间安排的公告</a>     
+	          	</li>
+          <li >
+				<a href="/cn/aboutCIB/about/notice/2020/20200829.html" >关于防范不法分子假冒我行App进行诈骗的风险提示</a>     
+	          	</li>
+          <li class="last-child">
+				<a href="/cn/aboutCIB/about/notice/2021/20210412.html" target=_blank>兴业银行关于调整代理贵金属买卖业务延期合约个人客户交易保证金率的公告</a>     
+	          	</li>
+          </ul>
+<a id="advertise-more" href="/cn/aboutCIB/about/notice/">更多</a>
+    </div>
+</div><div class="tab-box">
+	<ul class="top-tab clearfix">
+		<li class="w150 w150-selected">理财产品信息</li>
+		<li><a href="http://wealth.cib.com.cn/proxy/products/index.html" target="_blank">代理理财产品</a></li>
+		<li>优惠活动</li>
+		<li>新品推荐</li>
+		<li class="no-splite">兴业动态</li>
+	</ul>
+	<div class="container">
+		<div class="lc-content">
+		    <div class="clearfix">
+			  <div class="left">
+				<ul class="ul-style-a">
+	<li>
+	        <a href="http://wealth.cib.com.cn/retail/onsale/index.html" target=_blank>天天万利宝 7D-1</a>
+	        <p>
+	            <span>参考净收益/净值：</span>
+	            <span class="highlight">3.35%-3.45%</span>
+	            <a class="btn-style1" href="http://wealth.cib.com.cn/retail/onsale/index.html" target=_blank>去看看</a>
+	        </p>
+	    </li>
+	    <li>
+	        <a href="http://wealth.cib.com.cn/retail/onsale/cash.html" target=_blank>添利1号净值型理财产品</a>
+	        <p>
+	            <span>参考净收益/净值：</span>
+	            <span class="highlight"></span>
+	            <a class="btn-style1" href="http://wealth.cib.com.cn/retail/onsale/cash.html" target=_blank>去看看</a>
+	        </p>
+	    </li>
+	    </ul></div>
+			  <div class="right">
+				<ul class="ul-style-b">
+  <li >
+				<a href="http://wealth.cib.com.cn/noleft/20181008.html" >兴业银行关于下调部分理财产品销售起点金额的公告</a>     
+	          	</li>
+          <li >
+				<a href="http://wealth.cib.com.cn/noleft/20180109.html" target=_blank>关于调整理财产品协议书中“税务事项”条款的公告</a>     
+	          	</li>
+          <li >
+				<a href="http://wealth.cib.com.cn/retail/onsale/index.html" target=_blank>近期发售理财产品简介</a>     
+	          	<label class="new"></label></li>
+          <li >
+				<a href="http://wealth.cib.com.cn/retail/onsale/index.html" >丰利宝结构性理财2020年第33期</a>     
+	          	</li>
+          <li class="last-child">
+				<a href="http://wealth.cib.com.cn/retail/onsale/index.html" >合盈 91天</a>     
+	          	</li>
+          </ul>
+</div>
+			</div>
+			<div class="bottom clearfix">
+				<div class="title">
+					理财产品
+				</div>
+				<ul class="link clearfix">
+					<li><a href="http://wealth.cib.com.cn/index.html" target="_blank">发售产品信息</a></li>
+					<li><a href="http://wealth.cib.com.cn/retail/duration/wlb/index.html" target="_blank">万利宝</a></li>
+					<li><a href="http://wealth.cib.com.cn/retail/duration/ttwlb/index.html" target="_blank">天天万利宝</a></li>
+					<li><a href="http://wealth.cib.com.cn/retail/duration/wht/index.html" target="_blank">天天万汇通</a></li>
+					<li><a href="http://wealth.cib.com.cn/retail/duration/cash/index.html" target="_blank">现金宝</a></li>
+					<li><a href="http://wealth.cib.com.cn/retail/duration/zyb/index.html" target="_blank">智盈宝</a></li>
+					<li><a class="no-split" href="http://wealth.cib.com.cn/institution/hxcf/index.html" target="_blank">和鑫财富</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="container hide"></div>
+	<div class="container tab hide">
+		<div class="panel-box">
+            <div class="middle clearfix">
+                <a class="img" href="https://creditcard.cib.com.cn/minisite/jingwaiyou/index.html" target=_blank>
+			<img src="/cn/customer/home/tab-promotion-20200525.jpg" alt="优惠活动"/></a>
+      <ul class="list">
+  <li >
+				<a href="https://mp.weixin.qq.com/s/yiWbhGJyqTAcFRl2PMattQ" >绑定兴业信用卡，云闪付最高88元红包天天送</a>     
+	          	<label class="new"></label><span class="time">2020-12-10</span></li>
+          <li >
+				<a href="https://mp.weixin.qq.com/s/rZFGzpf-oaiKw-vHcbI_-w" >全“闽”惠出行|福州泉州1分钱坐公交，漳州南平等1...</a>     
+	          	<label class="new"></label><span class="time">2020-12-10</span></li>
+          <li >
+				<a href="/cn/home/other/promotion/2018/20180614.html" >兴业银行客户满意度调研活动，诚邀您的参与！</a>     
+	          	<span class="time">2018-06-19</span></li>
+          <li >
+				<a href="http://www.cib.com.cn/cn/minipage/20180510gbkh/index.html" >推荐新客好友成为兴业银行贵宾客户，获得奖励积点，兑...</a>     
+	          	<span class="time">2018-05-17</span></li>
+          <li class="last-child">
+				<a href="/cn/home/other/promotion/2018/20180328.html" >企业网银移动版，2018年转账汇款0手续费，蓝牙网...</a>     
+	          	<span class="time">2018-03-28</span></li>
+          </ul>
+<a href="/cn/home/other/promotion/" class="more">更多</a>
+            </div>
+        </div>
+	</div>
+	<div class="container tab hide">
+		<div class="panel-box">
+            <div class="middle clearfix">
+                <a class="img" href="https://creditcard.cib.com.cn/apply/products/ZTseries/QDZG.html" target=_blank>
+			<img src="/cn/customer/home/tab-products-20200305.jpg" alt="新品推荐"/></a>
+      <ul class="list">
+  <li >
+				<a href="http://wealth.cib.com.cn/retail/onsale/index.html" target=_blank>近期发售理财产品简介</a>     
+	          	<label class="new"></label><span class="time">2020-07-09</span></li>
+          <li >
+				<a href="/cn/home/other/products/20200917.html" >手机号转账业务</a>     
+	          	<span class="time">2020-09-17</span></li>
+          <li >
+				<a href="/cn/home/other/products/20190909.html" >中华人民共和国成立70周年金银纪念币震撼发售！</a>     
+	          	<span class="time">2019-09-09</span></li>
+          <li >
+				<a href="/cn/home/other/products/20190710.html" >第七届世界军人运动会金银纪念币火热销售中！</a>     
+	          	<span class="time">2019-07-10</span></li>
+          <li class="last-child">
+				<a href="/cn/home/other/products/20181229.html" >让养老投资简单点——兴全安泰平衡养老目标三年期FO...</a>     
+	          	<span class="time">2018-12-29</span></li>
+          </ul>
+<a href="/cn/home/other/products/" class="more">更多</a>
+            </div>
+        </div>
+	</div>
+	<div class="container hide">
+		<div class="panel-box">
+            <div class="middle clearfix">
+                 <a class="img" href="/cn/aboutCIB/about/news/index.html" >
+			<img src="/cn/customer/home/tab-news.jpg" alt="兴业动态"/></a>
+      <ul class="list">
+  <li >
+				<a href="/cn/aboutCIB/about/news/2021/20210506.html" >兴业银行落地福建省4地市首笔技术改造项目贷款</a>     
+	          	<label class="new"></label><span class="time">2021-04-30</span></li>
+          <li >
+				<a href="/cn/aboutCIB/about/news/2021/20210430_2.html" >兴业银行再次荣膺福建省级文明单位</a>     
+	          	<label class="new"></label><span class="time">2021-04-30</span></li>
+          <li >
+				<a href="/cn/aboutCIB/about/news/2021/20210430_1.html" >兴业银行落地福建省地方国企首单碳中和债</a>     
+	          	<span class="time">2021-04-30</span></li>
+          <li class="last-child">
+				<a href="/cn/aboutCIB/about/news/2021/20210421.html" >兴业银行出台指导意见全面推进乡村振兴金融服务</a>     
+	          	<span class="time">2021-04-21</span></li>
+          </ul>
+<a href="/cn/aboutCIB/about/news/" class="more">更多</a>
+            </div>
+            <div class="bottom">
+                <label>关于兴业</label><a href="/cn/aboutCIB/investor/profile/index.html">公司简介</a><a href="/cn/aboutCIB/investor/profile/organization.html">组织架构</a><a href="/cn/aboutCIB/investor/profile/devlop.html">发展战略</a><a href="/cn/aboutCIB/investor/profile/logo.html">公司形象标记</a><a href="/cn/aboutCIB/about/culture.html">企业文化</a><a href="/cn/aboutCIB/about/events/index.html">大事记</a><a class="last-child" href="/cn/aboutCIB/about/honor/index.html">兴业荣誉</a>
+            </div>
+        </div>
+	</div>
+</div><div class="panel" id="panel-person">
+	<div class="panel-top">
+		<h1>个人金融</h1>
+		<ul class="">
+<li><a href="/cn/home/personal/menu/wealth.html" >投资理财</a></li><li><a href="/cn/home/personal/menu/debit.html" >理财卡</a></li><li><a href="/cn/home/personal/menu/card.html" target="_blank" >信用卡</a></li><li><a href="/cn/home/personal/menu/private.html" >私人银行</a></li><li><a href="/cn/home/personal/menu/shequ.html" >社区银行</a></li><li><a href="/cn/home/personal/menu/vip.html" >天天万利宝</a></li><li><a href="/cn/home/personal/menu/xyt.html" target="_blank" >兴业通</a></li><li><a href="/cn/home/personal/menu/video.html" target="_blank" >视频专区</a></li><li style="background:none;"><a class="" href="/cn/home/personal/menu/more.html" >更多</a></li></ul></div>
+	<div class="panel-content">
+		<div class="panel-content-left">
+	  		<a href="/cn/minipage/20200303/index.html" ><img src="/cn/customer/home/panel-person-left-sq-2.jpg" alt="手机银行「圈子」频道" /></a>  
+	  	    <h1>手机银行「圈子」频道</h1>
+	  	    <p><a href="/cn/minipage/20200303/index.html" >满足您日常理财沟通与获取金融资讯的需求，致力于打造兴业理财经理与用户之间专业的即时沟通社交化服务平台。</a></p>
+	  	    	</div>
+	    <div class="panel-content-right">
+<ul><li>
+		<a href="/cn/minipage/vip/index.html" target=_blank>
+		<img src="/cn/customer/home/panel-person-right-vip.png"  alt="贵宾尊享">
+		贵宾尊享</a>
+	</li><li>
+		<a href="/cn/personal/wealth-management/xyt/index.html" >
+		<img src="/cn/customer/home/panel-person-right-xyt.jpg"  alt="兴业通">
+		兴业通</a>
+	</li><li>
+		<a href="/cn/personal/wealth-management/rmb/index.html" >
+		<img src="/cn/customer/home/panel-person-right-gjs.jpg"  alt="贵金属">
+		贵金属</a>
+	</li>
+</ul></div>
+</div>
+</div>
+<div class="panel" id="panel-company">
+	<div class="panel-top">
+		<h1>企业金融</h1>
+		<ul class="">
+<li><a href="/cn/home/corporate/menu/cash.html" >现金管理</a></li><li><a href="/cn/home/corporate/menu/investment.html" >投资银行</a></li><li><a href="/cn/home/corporate/menu/financing.html" >贸易金融</a></li><li><a href="/cn/home/corporate/menu/environment.html" >环境金融</a></li><li><a href="/cn/home/corporate/menu/micro.html" >小微金融</a></li><li><a href="/cn/home/corporate/menu/institution.html" >机构业务</a></li><li><a href="/cn/home/corporate/menu/industry.html" >产业金融</a></li><li><a href="/cn/home/corporate/menu/base.html" >基础服务</a></li><li style="background:none;"><a class="" href="/cn/home/corporate/menu/more.html" >更多</a></li></ul></div>
+	<div class="panel-content">
+		<div class="panel-content-left">
+	  		<a href="/cn/corporate/micro/index.html" ><img src="/cn/customer/home/panel-cor-left-miro.jpg" alt="小微“三剑客”" /></a>  
+	  	    <h1>小微“三剑客”</h1>
+	  	    <p><a href="/cn/corporate/micro/index.html" >“易速贷”是本行为满足小微企业快速、便利的融资需求，依据客户提供的抵押品，通过标准化“计分卡”的方式，为小企业客户提供便捷快速的融资业务。</a></p>
+	  	    	</div>
+	    <div class="panel-content-right">
+<ul><li>
+		<a href="/cn/corporate/cash/net.html#c" >
+		<img src="/cn/customer/home/panel-cor-right-sf.jpg"  alt="收付直通车">
+		收付直通车</a>
+	</li><li>
+		<a href="/cn/corporate/micro/products.html#e" >
+		<img src="/cn/customer/home/panel-cor-right-xh.jpg"  alt="循环贷">
+		循环贷</a>
+	</li><li>
+		<a href="/cn/corporate/environment/products.html#e" >
+		<img src="/cn/customer/home/panel-cor-right-jn.jpg"  alt="节能减排融资">
+		节能减排融资</a>
+	</li>
+</ul></div>
+</div>
+</div>
+<div class="panel" id="panel-bank">
+	<div class="panel-top">
+		<h1>同业金融</h1>
+		<ul class="">
+<li><a href="/cn/home/financial/menu/institutional.html" >同业金融</a></li><li><a href="/cn/home/financial/menu/payment.html" >支付结算</a></li><li><a href="/cn/home/financial/menu/wealthCloud.html" >财富云</a></li><li style="background:none;"><a class="" href="/cn/home/financial/menu/FICC.html" >FICC交易</a></li></ul></div>
+	<div class="panel-content">
+		<div class="panel-content-left">
+	  		<a href="https://f.cib.com.cn/firm/main/mainx" target=_blank><img src="/cn/customer/home/panel-finan-left-tymh.jpg" alt="同业门户" /></a>  
+	  	    <h1>同业门户</h1>
+	  	    <p><a href="https://f.cib.com.cn/firm/main/mainx" target=_blank>同业与金融市场统一门户是兴业银行推出的为金融机构提供一站式线上账户管理、资金融通、投资交易、支付结算、资产托管、同业交流、研究资讯等开放式金...</a></p>
+	  	    	</div>
+	    <div class="panel-content-right">
+<ul><li>
+		<a href="https://f.cib.com.cn/firm/main/businessSolution/assetTransaction" >
+		<img src="/cn/customer/home/panel-finan-right-hx.jpg"  alt="资产交易">
+		资产交易</a>
+	</li><li>
+		<a href="https://f.cib.com.cn/firm/main/businessSolution/nonBank" >
+		<img src="/cn/customer/home/panel-finan-right-yj.jpg"  alt="非银合作">
+		非银合作</a>
+	</li><li>
+		<a href="https://f.cib.com.cn/firm/main/businessSolution/trusteeship" >
+		<img src="/cn/customer/home/panel-finan-right-zc.jpg"  alt="资产托管">
+		资产托管</a>
+	</li>
+</ul></div>
+</div>
+</div>
+<div class="panel" id="panel-electron">
+	<div class="panel-top">
+		<h1>网络金融</h1>
+		<ul class="">
+<li><a href="/cn/home/ebank/menu/directbank.html" target="_blank" >直销银行</a></li><li><a href="/cn/home/ebank/menu/personal.html" >个人网上银行</a></li><li><a href="/cn/home/ebank/menu/wap.html" >手机银行</a></li><li><a href="/cn/home/ebank/menu/telephone.html" >电话银行</a></li><li><a href="/cn/home/ebank/menu/weixin.html" >微信银行</a></li><li><a href="/cn/home/ebank/menu/wallet.html" >移动支付</a></li><li><a href="/cn/home/ebank/menu/corporate.html" >企业网上银行</a></li><li style="background:none;"><a class="" href="/cn/home/ebank/menu/more.html" >更多</a></li></ul></div>
+	<div class="panel-content">
+		<div class="panel-content-left">
+	  		<a href="/cn/minipage/page/login-directbank.html" target=_blank><img src="/cn/customer/home/panel-ebank-left-zx.jpg" alt="直销银行" /></a>  
+	  	    <h1>直销银行</h1>
+	  	    <p><a href="/cn/minipage/page/login-directbank.html" target=_blank>开往千家万户的财富直通车，兴业银行直销银行面向各家银行客户在线直接销售金融产品。直销银行既提供传统的理财产品、基金、定期存款，也创新推出兴业...</a></p>
+	  	    	</div>
+	    <div class="panel-content-right">
+<ul><li>
+		<a href="/cn/minipage/page/login-fw.html" target=_blank>
+		<img src="/cn/customer/home/panel-ebank-right-fw.jpg"  alt="服务预约">
+		服务预约</a>
+	</li><li>
+		<a href="/cn/e-banking/weixin/index.html" >
+		<img src="/cn/customer/home/panel-ebank-right-yc.jpg"  alt="微信银行">
+		微信银行</a>
+	</li><li>
+		<a href="https://mobile.cib.com.cn/app/pages/20210330/index.html" >
+		<img src="/cn/customer/home/panel-ebank-right-sj20180227.jpg"  alt="有奖建议征集">
+		有奖建议征集</a>
+	</li>
+</ul></div>
+</div>
+</div>
+<div class="margin-bottom-default clearfix" style="position: relative">
+<div class="panel w360">
+        <div class="panel-top">
+            <h1>集团化经营</h1>
+        </div>
+        <div class="panel-content">
+            <ul class="">
+<li>
+<a href="/cn/home/group/01.html" target="_blank" >兴业国际信托有限公司</a><a href="/cn/home/group/03.html" target="_blank" >兴业金融租赁公司</a></li><li>
+<a href="/cn/home/group/05.html" target="_blank" >兴业基金管理有限公司</a><a href="/cn/home/group/02.html" target="_blank" >兴业消费金融股份公司</a></li><li>
+<a href="/cn/home/group/07.html" target="_blank" >兴业期货有限公司</a><a href="/cn/home/group/09.html" target="_blank" >兴业国信资产管理有限公司</a></li><li>
+<a href="/cn/home/group/10.html" >兴业财富资产管理有限公司</a><a href="/cn/home/group/08.html" target="_blank" >兴业经济研究咨询股份有限公司</a></li><li>
+<a href="/cn/home/group/06.html" >兴业数字金融服务股份有限公司</a><a href="/cn/home/group/11.html" >福建交易市场登记结算中心股份有限公司</a></li></ul></div>
+    </div>
+    <div class="panel w360 no-margin">
+        <div class="panel-top">
+            <h1>财经资讯</h1>
+        </div>
+        <div class="panel-content">
+            <ul class="">
+<li>
+<a href="/cn/home/information/01.html" target="_blank" >财经资讯</a><a href="/cn/home/information/04.html" target="_blank" >基金</a></li><li>
+<a href="/cn/home/information/06.html" target="_blank" >外汇</a><a href="/cn/home/information/05.html" target="_blank" >集合理财计划</a></li><li>
+<a href="/cn/home/information/10.html" target="_blank" >贵金属投资</a><a href="/cn/home/information/12.html" target="_blank" >理财产品信息查询平台</a></li></ul></div>
+    </div>
+	<a href="http://branch.cib.com.cn/index.html" target="_blank" class="ui-select">分行网站</a>
+    <a href="/cn/home/other/friends.html" class="ui-select no-margin">友情链接</a>
+</div>
+</div>
+			<div class="content-right">
+				<div class="loginbox">
+    <div class="loginbox-top">
+        <h3>登录区</h3>
+        <a class="safe" target="_blank" href="/cn/home/other/safe.html">安全提示</a>
+    </div>
+	<div class="loginbox-items">
+	    <a id="loginPersonal" target="_blank" href="#" class="loginbox-items-1"><span class="login-icon-1">个人网银</span></a>
+	    <a id="loginPersonal" target="_blank" href="https://corporatebank.cib.com.cn/"  class="loginbox-items-2"><span class="login-icon-2">企业网银</span></a>
+	    <a id="loginInsti" target="_blank" href="#" class="loginbox-items-3"><span class="login-icon-3">同业网银</span></a>
+	</div>
+	<div class="loginbox-subitems">
+	     <a class="loginbox-subitems-1" id="loginYYPT" target="_blank"  href="#">钱大掌柜</a>
+		 <a class="loginbox-subitems-2" id="loginDirectbank" target="_blank"  href="#">直销银行</a>
+		 <a class="loginbox-subitems-3" id="loginTreasury" target="_blank"  href="#">同业门户</a>
+		 <a class="loginbox-subitems-4" id="loginXYGJ" target="_blank"  href="#">兴业管家</a>
+	</div>
+    <div class="loginbox-bottom clearfix">
+        <a id="loginFW" target="_blank" href="#">服务预约<span></span></a>
+		<a target="_blank" href="/cn/minipage/pension/index.html">养老金</a>
+    </div>
+</div><div class="aside">
+    <div class="top">
+        <ul id="qrcode" class="clearfix">
+            <li>
+                <a href="javascript:void(0)">手机客户端</a>
+                <div class="qr-code">
+                    <img src="/cn/resources/css/2015/images/code-down.png">
+                </div>
+            </li>
+			<li>
+                <a href="javascript:void(0)">好兴动</a>
+                <div class="qr-code">
+                    <img src="/cn/resources/css/2015/images/code-hxd.jpg">
+                </div>
+            </li>
+            <li>
+                <a href="javascript:void(0)">微信</a>
+                <div class="qr-code">
+                    <img src="/cn/resources/css/2015/images/code-weixin.jpg">
+                </div>
+            </li>
+            <li>
+                <a class="last-child" target="_blank" href="/cn/minipage/page/sina_wb.html">微博</a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="aside download">
+   <ul class="down-tab top clearfix">
+      <li class="down selected"><i></i>下载中心<span></span></li>
+	  <li class="bill"><i></i>回单查询</li>
+   </ul>
+   <div class="container middle">
+       <ul class="ul-li-single-row">
+<li><a href="/cn/home/download/01.html" >个人网银工具</a></li><li><a href="/cn/home/download/02.html" >企业及同业网银工具</a></li><li><a href="/cn/home/download/03.html" >客户端手机银行</a></li><li><a href="/cn/home/download/04.html" target="_blank" >个人证书下载</a></li><li style=""><a class="" href="/cn/home/download/05.html" target="_blank" >企业证书下载</a></li></ul><a href="/cn/home/other/download/" class="more">更多</a>
+   </div>
+   <div class="container hide middle">
+       <ul class="ul-li-single-row">
+<li><a href="/cn/home/bill/receipt-cor.html" target="_blank" >企业网银回单</a></li><li><a href="/cn/home/bill/receipt-phone.html" target="_blank" >手机银行受理单</a></li><li><a href="/cn/home/bill/receipt-per.html" target="_blank" >个人网银受理单</a></li><li style=""><a class="" href="/cn/home/bill/receipt-gm.html" target="_blank" >柜面业务回单查询</a></li></ul></div>
+</div><div class="aside oocs">
+    <div class="top">
+        <i></i>
+
+        <h2>常用服务</h2>
+    </div>
+    <div class="middle">
+        <div id="slideul">
+<ul class="ul-li-double-row">
+<li><a href="/cn/home/online-service/foreign.html" target=_blank>个人外汇</a></li>
+<li><a class="emergency-report" href="/cn/home/online-service/loss.html" target=_blank>紧急挂失</a></li>
+<li><a href="/cn/home/online-service/card.html" >信用卡在线申请</a></li>
+<li><a href="/cn/home/online-service/demo-per.html" >个人网银演示版</a></li>
+<li><a href="/cn/home/online-service/demo-cor.html" >企业网银演示版</a></li>
+<li><a href="/cn/home/online-service/demo-cor-m.html" >企业网银移动版演示</a></li>
+<li><a href="/cn/home/online-service/zimao.html" target=_blank>自贸区账户</a></li>
+<li><span>在线证券交易</span><ul class="ul-suspend-content hide">
+<li><a href="/cn/home/online-service/stock/01.html" >国泰君安证券</a></li>
+<li><a href="/cn/home/online-service/stock/02.html" >兴业证券</a></li>
+<li><a href="/cn/home/online-service/stock/03.html" >西南证券</a></li>
+<li><a href="/cn/home/online-service/stock/04.html" >广发证券</a></li>
+<li><a href="/cn/home/online-service/stock/05.html" >华福证券</a></li>
+<li><a href="/cn/home/online-service/stock/06.html" >证券开户</a></li></ul></li>
+<li><a href="/cn/home/online-service/licai.html" target=_blank>理财收益试算</a></li>
+<li><a href="/cn/home/online-service/duizhang.html" target=_blank>银企网上对账</a></li></ul>
+<ul class="ul-li-double-row">
+<li><a href="/cn/home/online-service/homeLoan.html" >家庭综合消费贷</a></li></ul>
+</div>
+        <ul id="ul-suspend" class="ul-suspend">
+        </ul>
+    </div>
+</div><div class="aside financial">
+    <div class="top">
+        <i></i>
+
+        <h2>本行金融信息</h2>
+    </div>
+    <div class="middle">
+		<ul class="ul-li-double-row">
+<li><a href="/cn/home/bank-information/per.html" >个人存贷利率</a></li><li><a href="/cn/home/bank-information/cor.html" >企业存贷利率</a></li><li><a href="/cn/home/bank-information/charge.html" >资费标准</a></li><li><a href="/cn/home/bank-information/foreign.html" target="_blank" >外汇牌价</a></li><li><a href="/cn/home/bank-information/fund.html" target="_blank" >热销基金</a></li><li><a href="/cn/home/bank-information/daixiao.html" >代销基金费率</a></li><li><a href="/cn/home/bank-information/wealth.html" target="_blank" >理财产品信息披露</a></li><li style=""><a class="" href="/cn/home/bank-information/yilian.html" >“银联通”基金超市</a></li></ul></div>
+</div><div class="aside applyCard">
+    <div class="top">
+        <i></i>
+        <h2>推荐办卡</h2>
+    </div>
+    <div class="middle">
+        <div id="cardSlides">
+<a href="https://creditcard.cib.com.cn/apply/products/ZTseries/xzk.html" id='cardSlides-1'target=_blank >
+                <img src="/cn/customer/home/applyCard-20181121-1.jpg" alt="星夜•星座信用卡"/>
+                <p class="word">星夜•星座信用卡</p>
+                <p class="word2">璀璨星空 因你而亮</p>
+            </a>
+          <a href="http://creditcard.cib.com.cn/apply/products/ZTseries/YSseries/ysk_yl.html" id='cardSlides-2'target=_blank >
+                <img src="/cn/customer/home/applyCard-20181121-2.jpg" alt="银联艺术主题信用卡白金卡（精英版）"/>
+                <p class="word">银联艺术主题信用卡白金卡（精英版）</p>
+                <p class="word2">品味艺术，领略传世名作</p>
+            </a>
+          <a href="https://creditcard.cib.com.cn/apply/products/BJseries/ylrmb.html" id='cardSlides-3'target=_blank >
+                <img src="/cn/customer/home/applyCard-20181121-3.jpg" alt="银联人民币白金信用卡"/>
+                <p class="word">银联人民币白金信用卡</p>
+                <p class="word2">白金人生，尊荣家庭</p>
+            </a>
+          <a href="http://creditcard.cib.com.cn/apply/products/ZTseries/xdl.html" id='cardSlides-4'target=_blank >
+                <img src="/cn/customer/home/applyCard-20181121-4.jpg" alt="兴动力信用卡青春版"/>
+                <p class="word">兴动力信用卡青春版</p>
+                <p class="word2">跑步兑积分，积分换好礼！</p>
+            </a>
+          </div>
+    </div>
+</div><div class="aside elife"><a href="/cn/minipage/edu/index.html"><img src="/cn/resources/css/2015/images/right_edu.jpg"></a></div>
+<!--<div class="aside elife">
+    <div class="top">
+        <i></i>
+        <h2>精彩e生活</h2>
+    </div>
+    <div class="middle">
+	    <div class="hot"><span>推荐:&nbsp;&nbsp;</span><a href="http://directbank.cib.com.cn/hall/show/xcbshow/xcbList.do
+" target="_blank"><font color="red">兴业宝</font></a>&nbsp;&nbsp;&nbsp;<a href="http://shop.cib.com.cn/?m=waibu&s=mrecharge"><font color="red">手机充值</font></a>&nbsp;</div>
+		</div>
+</div>-->
+<div class="aside-ads">
+  <ul>
+  	<li class="first"><a href="/cn/home/currency/proclams/index.html"><img src="/cn/resources/css/2015/images/right_ads_1.jpg"/></a></li>
+    <li><a href="http://www.cbirc.gov.cn/cn/view/pages/index/index.html" target="_blank"><img src="/cn/resources/css/2015/images/right_ads_2.jpg"/></a></li>
+    <li><a href="http://www.equator-principles.com/" target="_blank"><img src="/cn/resources/css/2015/images/right_ads_3.jpg"/></a></li>
+  </ul>
+</div><a href="/cn/sitemap.html" class="ui-select w224 no-margin">站点导航</a>
+			</div>
+		</div>
+		
+<div id="footer">
+	<!-- 页脚由js脚本填入 -->
+</div>
+<script src="/cn/CibFooter.js" type="text/javascript" deffer=true></script></div>
+	<div class="rightCode"><img src="/cn/resources/css/2015/images/rightCode_20200821.png"/></div>
+</body>
+</html>
